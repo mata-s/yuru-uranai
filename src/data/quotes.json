@@ -1,0 +1,256 @@
+[
+  {
+    "characterId": "matatabi_nemuzo",
+    "theme": "今日のあなたは、のんびりマタタビ気分",
+    "result": "今日はがんばらニャい日…ゆるっとしてる方が運が舞い込むニャ〜",
+    "comment": "あったかい飲み物とふわふわ毛布がラッキーアイテムニャ",
+    "onlyWeekendOrHoliday": true
+  },
+  {
+    "characterId": "matatabi_nemuzo",
+    "theme": "今日のあなたは、ちょっぴり無気力気分",
+    "result": "現実より夢が見たい日ニャ〜。ぼーっとしてても大丈夫ニャ",
+    "comment": "お昼寝タイムを確保すると、運気がふわっと上がるニャ",
+    "onlyWeekendOrHoliday": true
+  },
+  {
+    "characterId": "matatabi_nemuzo",
+    "theme": "今日のあなたは、まったり癒し系気分",
+    "result": "何もしない時間が最高の癒しになるニャ〜",
+    "comment": "やさしい言葉ひとつで、あなた自身の気分も上がるニャ"
+  },
+  {
+    "characterId": "matatabi_nemuzo",
+    "theme": "今日のあなたは、ちょい甘えたい気分",
+    "result": "誰かにちょっと頼ってみると心が軽くなるニャ〜",
+    "comment": "「ありがとう」を素直に伝えるだけで福が来るニャ"
+  },
+  {
+    "characterId": "matatabi_nemuzo",
+    "theme": "今日のあなたは、ゆるく前向き気分",
+    "result": "流れにまかせて進めば、自然といい方向にいくニャ〜",
+    "comment": "ラッキーアクションは“鼻歌”、気持ちがふわっと明るくなるニャ〜"
+  },
+  {
+    "characterId": "cool_black_cat",
+    "theme": "今日のあなたは、ちょっぴりモヤモヤ気分",
+    "result": "頭の中がグルグルしてるときは、ひとまずコーヒーでも飲んどけニャ〜",
+    "comment": "意外と忘れた頃に答えが出るもんだニャ〜"
+  },
+  {
+    "characterId": "cool_black_cat",
+    "theme": "今日のあなたは、ひとり時間が恋しい気分",
+    "result": "誰かと無理に合わせなくていいニャ〜。今日は「距離感」がキーワードだニャ〜",
+    "comment": "好きな音楽に包まれて、静かに整えるのが吉ニャ〜"
+  },
+  {
+    "characterId": "cool_black_cat",
+    "theme": "今日のあなたは、ちょっと無理してる気分",
+    "result": "無理してニコニコするくらいなら、無表情で休めニャ〜",
+    "comment": "自分に優しくできる人が、結局いちばん強いんだニャ〜"
+  },
+  {
+    "characterId": "cool_black_cat",
+    "theme": "今日のあなたは、鋭くなりがち気分",
+    "result": "言いたいことは分かるニャ〜。でも今日は「飲み込む」ことも選択肢だニャ〜",
+    "comment": "余白をつくると、新しい気づきが入ってくるニャ〜"
+  },
+  {
+    "characterId": "cool_black_cat",
+    "theme": "今日のあなたは、うまく言葉が出ない気分",
+    "result": "伝わらない日もあるニャ〜。でもそれって案外、相手の問題かもニャ〜",
+    "comment": "頭よりも心に従って、ゆっくり話そうニャ〜"
+  },
+  {
+    "characterId": "kuroshiro-neko",
+    "theme": "今日のあなたは、なんだか考えすぎ気分",
+    "result": "答えは、静かなところに落ちてるかもニャ〜",
+    "comment": "散歩中に空を見上げると、ヒントが降ってくるかもニャ"
+  },
+  {
+    "characterId": "kuroshiro-neko",
+    "theme": "今日のあなたは、じっくり内省したい気分",
+    "result": "焦らず立ち止まることも、大事な進歩ニャ〜",
+    "comment": "今日の名言は「ゆっくり、でも確実にニャ」"
+  },
+  {
+    "characterId": "kuroshiro-neko",
+    "theme": "今日のあなたは、余裕を持ちたい気分",
+    "result": "心にスペースがあると、人にもやさしくできるニャ〜",
+    "comment": "ゆっくりお茶を淹れて整えるといいニャ"
+  },
+  {
+    "characterId": "kuroshiro-neko",
+    "theme": "今日のあなたは、全体を見直したい気分",
+    "result": "一歩引いて見ると、大切なことが見えるニャ〜",
+    "comment": "小さなことを大きく考えすぎないようにニャ"
+  },
+  {
+    "characterId": "kuroshiro-neko",
+    "theme": "今日のあなたは、学びが多い気分",
+    "result": "どんな日にも学びがあるニャ〜",
+    "comment": "日記にひとこと書くと、未来の自分のヒントになるニャよ"
+  },
+  {
+    "characterId": "genki_playful_cat",
+    "theme": "今日のあなたは、うずうず行動モード",
+    "result": "気になったら即トライニャっ！体が先に動いちゃうかもニャ〜",
+    "comment": "「やってみたもん勝ち」が今日の合言葉ニャ〜"
+  },
+  {
+    "characterId": "genki_playful_cat",
+    "theme": "今日のあなたは、ワクワク冒険気分",
+    "result": "ちょっと違う道を選んでみると、新しい発見があるかもニャ！",
+    "comment": "小さな冒険が、大きな楽しさを連れてくるニャ〜"
+  },
+  {
+    "characterId": "genki_playful_cat",
+    "theme": "今日のあなたは、挑戦スイッチON気分",
+    "result": "難しそうに見えても、意外となんとかなるニャっ",
+    "comment": "できるかじゃなくて、まずは「やってみるニャ〜」"
+  },
+  {
+    "characterId": "genki_playful_cat",
+    "theme": "今日のあなたは、ノリと勢いで進む気分",
+    "result": "考える前に動いてみたら、案外スムーズにいくかもニャ！",
+    "comment": "ノリって、意外と大事な原動力ニャ〜"
+  },
+  {
+    "characterId": "genki_playful_cat",
+    "theme": "今日のあなたは、遊び心MAX気分",
+    "result": "楽しむことに本気を出せば、全部うまく回るニャ〜！",
+    "comment": "笑顔は運気も呼び込む最強アイテムニャっ"
+  },
+  {
+    "characterId": "lazy_relax_cat",
+    "theme": "今日のあなたは、ゴロゴロごろごろ気分",
+    "result": "今日はなーんにもしない日でいいニャ〜",
+    "comment": "がんばらないって、意外と勇気がいるニャよ",
+    "onlyWeekendOrHoliday": true
+  },
+  {
+    "characterId": "lazy_relax_cat",
+    "theme": "今日のあなたは、マイペース気分",
+    "result": "人と比べるより、自分のリズムでいいニャ〜",
+    "comment": "ゆっくりする日こそ、心の電池がチャージされるニャ"
+  },
+  {
+    "characterId": "lazy_relax_cat",
+    "theme": "今日のあなたは、ちょっとお疲れ気分",
+    "result": "疲れてるときは、無理しないで寝るニャ〜",
+    "comment": "お布団の中が、いちばんのパワースポットニャ",
+    "onlyWeekendOrHoliday": true
+  },
+  {
+    "characterId": "lazy_relax_cat",
+    "theme": "今日のあなたは、思考おやすみ気分",
+    "result": "あえて何も考えない時間も、大切ニャ〜",
+    "comment": "お気に入りの音楽だけ流してゴロゴロするのもアリニャ",
+    "onlyWeekendOrHoliday": true
+  },
+  {
+    "characterId": "lazy_relax_cat",
+    "theme": "今日のあなたは、のんびり肯定気分",
+    "result": "今のままでも十分ニャ。ゆるくていいニャ〜",
+    "comment": "自分に「OK」出してあげると、明日が軽くなるニャよ",
+    "onlyWeekendOrHoliday": true
+  },
+  {
+    "characterId": "maintenance_cat",
+    "theme": "今日のあなたは、整え日和な気分",
+    "result": "今日は“面倒なこと”に向き合うとスッキリするかもニャ〜",
+    "comment": "爪も心も整えると、不思議と運が巡ってくるニャ"
+  },
+  {
+    "characterId": "maintenance_cat",
+    "theme": "今日のあなたは、がんばりすぎ注意気分",
+    "result": "無理してるときほど、ケアが大事ニャ〜",
+    "comment": "「自分メンテの日」って思えば罪悪感ゼロニャ"
+  },
+  {
+    "characterId": "maintenance_cat",
+    "theme": "今日のあなたは、ちょっと億劫気分",
+    "result": "やる気が出ないときは、小さいことだけ済ませるニャ〜",
+    "comment": "爪ひとつ切れただけでも、充分えらいニャよ"
+  },
+  {
+    "characterId": "maintenance_cat",
+    "theme": "今日のあなたは、仕方なく行動モード",
+    "result": "やるしかないこと、サクッと片づけると案外楽になるニャ〜",
+    "comment": "めんどくさいことに勝った自分をほめるニャ！"
+  },
+  {
+    "characterId": "maintenance_cat",
+    "theme": "今日のあなたは、ちょっと内向き気分",
+    "result": "人との距離より、自分の快適さ優先でいくニャ〜",
+    "comment": "小さな整えが、心の整理にもつながるニャよ"
+  }, 
+  {
+    "characterId": "fluffy_shimaenaga",
+    "theme": "今日のあなたは、ふわふわ浮かびたい気分",
+    "result": "空がきれいに見える日…かもね",
+    "comment": "気持ちを軽くして 風にまかせてみても いいかも"
+  },
+  {
+    "characterId": "fluffy_shimaenaga",
+    "theme": "今日のあなたは、やさしさに包まれたい気分",
+    "result": "あたたかい言葉に ふれると心がほぐれるよ",
+    "comment": "やさしい音や香りに ふっと癒される瞬間があるかも"
+  },
+  {
+    "characterId": "fluffy_shimaenaga",
+    "theme": "今日のあなたは、小さな幸せを大事にしたい気分",
+    "result": "ほら 湯気の向こうに ほっとする気持ちがあるよ",
+    "comment": "ちいさなしあわせ ちゃんと見つけられてるよ"
+  },
+  {
+    "characterId": "fluffy_shimaenaga",
+    "theme": "今日のあなたは、静かなエールがほしい気分",
+    "result": "がんばらなくていいよ きっとだいじょうぶ",
+    "comment": "羽をたたんで休んでても ちゃんと前に進んでるから"
+  },
+  {
+    "characterId": "fluffy_shimaenaga",
+    "theme": "今日のあなたは、ひととき羽を休めたい気分",
+    "result": "何もない時間が いちばん大切な時間になるかも",
+    "comment": "ふわっ…と心が軽くなる瞬間を 大切にしてね"
+  },
+  
+  {
+    "characterId": "cool_penguin", 
+    "theme": "今日のあなたは、一歩ずつ前進気分",  
+    "result": "ゆっくりでも確実に進めば大丈夫ペン！", 
+    "comment": "焦らなくていいペン 氷の上だって転びながら前に進むペン"
+  
+  },
+  
+  {
+    
+    "characterId": "cool_penguin",
+    "theme": "今日のあなたは、仲間を思う気分",
+    "result": "誰かのひとことが、あなたを救ってくれるかもペン",
+    "comment": "声をかけるのも、かけられるのも運気UPペン！"
+  },
+  
+  {
+    
+    "characterId": "cool_penguin",
+    "theme": "今日のあなたは、冒険心がうずうず気分",
+    "result": "いつもと違う道を選ぶと、新しい発見があるペン！",
+    "comment": "地図のない旅こそ、心が高鳴るペン〜"
+  },
+  
+  {
+    "characterId": "cool_penguin", 
+    "theme": "今日のあなたは、無理しないでモード",
+    "result": "「がんばらない勇気」も大事ペン",
+    "comment": "羽を休める時間が、次のダイブの力になるペン"
+  },
+  
+  {
+    "characterId": "cool_penguin", 
+    "theme": "今日のあなたは、ひとつのことに集中気分",
+    "result": "水面下で努力してるの、ちゃんと見えてるペン！",
+    "comment": "今日のあなたは、氷の下でもかっこいいペン！"
+  }
+]
