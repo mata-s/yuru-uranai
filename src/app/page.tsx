@@ -3,7 +3,6 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
-import { characters } from "../data/characters";
 import generalQuotes from "../data/quotes.json";
 import loveQuotes from "../data/quotes_love.json";
 import workQuotes from "../data/quotes_work.json";
@@ -19,7 +18,6 @@ type Quote = {
 
 export default function Home() {
   const router = useRouter();
-  const [quote, setQuote] = useState<Quote | null>(null);
   const [canFortune, setCanFortune] = useState(true);
   const [category, setCategory] = useState<"general" | "love" | "work">("general");
 
@@ -27,17 +25,11 @@ export default function Home() {
     const today = new Date().toLocaleDateString();
 
     const currentDateKey = `fortune-date-${category}`;
-    const currentQuoteKey = `fortune-quote-${category}`;
     const currentLastDate = localStorage.getItem(currentDateKey);
 
     if (currentLastDate === today) {
-      const savedQuote = localStorage.getItem(currentQuoteKey);
-      if (savedQuote) {
-        setQuote(JSON.parse(savedQuote));
-      }
       setCanFortune(false);
     } else {
-      setQuote(null);
       setCanFortune(true);
     }
   }, [category]);
