@@ -1,0 +1,23 @@
+[
+    {
+      "characterId": "cool_penguin",
+      "theme": "集中力が高まりそうな日ペン！",
+      "result": "朝の一歩目がカギになるペン！",
+      "comment": "ToDoを一つ終わらせるだけで気分が乗ってくるペンよ",
+      "luckyItem": "シャープなボールペン"
+    },
+    {
+      "characterId": "matatabi_nemuzo",
+      "theme": "がんばりすぎ注意な日ニャ",
+      "result": "今日は“やらない勇気”も必要ニャ〜",
+      "comment": "お茶を飲んで、5分ぼーっとするのが吉ニャ〜",
+      "luckyItem": "あったかい緑茶"
+    },
+    {
+      "characterId": "cool_black_cat",
+      "theme": "ちょっとイライラしやすい日ニャ",
+      "result": "深呼吸で感情をクールダウンだニャ",
+      "comment": "文字をゆっくり打つと心も落ち着くニャ〜",
+      "luckyItem": "お気に入りの香りのハンドクリーム"
+    }
+  ]
