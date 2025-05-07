@@ -25,7 +25,6 @@ export default function Home() {
 
   useEffect(() => {
     const today = new Date().toLocaleDateString();
-    const allCategories = ["general", "love", "work"];
 
     const currentDateKey = `fortune-date-${category}`;
     const currentQuoteKey = `fortune-quote-${category}`;
@@ -63,8 +62,6 @@ export default function Home() {
   const handleViewResult = () => {
     router.push(`/result?category=${category}`);
   };
-
-  const character = characters.find((c) => c.id === quote?.characterId);
 
   return (
     <main className="flex flex-col items-center justify-center min-h-screen p-8">
