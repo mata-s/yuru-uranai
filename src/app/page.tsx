@@ -7,14 +7,6 @@ import generalQuotes from "../data/quotes.json";
 import loveQuotes from "../data/quotes_love.json";
 import workQuotes from "../data/quotes_work.json";
 
-type Quote = {
-  characterId: string;
-  theme: string;
-  result: string;
-  comment: string;
-  luckyItem?: string;
-  onlyWeekendOrHoliday?: boolean;
-};
 
 export default function Home() {
   const router = useRouter();
