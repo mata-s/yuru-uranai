@@ -38,4 +38,20 @@ export const characters: Character[] = [
     id: "cool_penguin",
     image: "/images/cool_penguin.png",
   },
+  {
+    id: "love_heart_cat",
+    image: "/images/love_heart_cat.png",
+  },
+  {
+    id: "ganbaru_bear",
+    image: "/images/ganbaru_bear.png",
+  },
+  {
+    id: "romantic_rabbit",
+    image: "/images/romantic_rabbit.png",
+  },
+  {
+    id: "yukkuri_kame",
+    image: "/images/yukkuri_kame.png",
+  },
 ];
