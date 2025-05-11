@@ -315,4 +315,32 @@
     "comment": "人に優しくすると、自分にも幸せが返ってくるクマ！",
     "luckyItem": "ハンカチ"
   }
+  ,{
+    "characterId": "kawaii_chick",
+    "theme": "今日のあなたは、ほんわか安心気分",
+    "result": "小さな幸せに気づける日ピヨ♪",
+    "comment": "ふとした笑顔が、運を引き寄せるピヨ〜",
+    "luckyItem": "黄色いハンカチ"
+  },
+  {
+    "characterId": "kawaii_chick",
+    "theme": "今日のあなたは、ピヨピヨ成長モード",
+    "result": "失敗も前進ピヨ。チャレンジしてみてピヨ！",
+    "comment": "一歩ずつの歩みが、明日の自信になるピヨ♪",
+    "luckyItem": "小さなメモ帳"
+  },
+  {
+    "characterId": "kawaii_chick",
+    "theme": "今日のあなたは、ちょっぴり甘えたい気分",
+    "result": "頼ることで心がふわっと軽くなるピヨ〜",
+    "comment": "「ありがとう」の一言が魔法のことばピヨ♪",
+    "luckyItem": "ふわふわのタオル"
+  },
+  {
+    "characterId": "kawaii_chick",
+    "theme": "今日のあなたは、のびのび自由気分",
+    "result": "思うままに動くと、いい風が吹いてくるピヨ！",
+    "comment": "好奇心のままに過ごすと楽しい発見があるピヨ〜",
+    "luckyItem": "お気に入りの靴下"
+  }
 ]

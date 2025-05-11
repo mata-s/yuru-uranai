@@ -54,4 +54,16 @@ export const characters: Character[] = [
     id: "yukkuri_kame",
     image: "/images/yukkuri_kame.png",
   },
+  {
+    id: "kawaii_chick",
+    image: "/images/kawaii_chick.png",
+  },
+  {
+    id: "fight_chick",
+    image: "/images/fight_chick.png",
+  },
+  {
+    id: "kitune",
+    image: "/images/kitune.png",
+  },
 ];
