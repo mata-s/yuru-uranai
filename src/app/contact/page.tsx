@@ -1,5 +1,3 @@
-
-
 export default function ContactPage() {
   return (
     <main className="p-8 max-w-3xl mx-auto text-gray-800">
@@ -7,7 +5,7 @@ export default function ContactPage() {
       <p className="mb-6">
         ゆる占いに関するご意見・ご感想・お問い合わせは、以下のフォームからご連絡ください。
       </p>
-      <div className="w-full" style={{ height: '1000px' }}>
+      <div className="w-full h-[1200px] md:h-[1000px]">
         <iframe
           src="https://docs.google.com/forms/d/e/1FAIpQLSeO-P7CU0OsWpuKtWBHwo4O1pP60xq5Ubc1aFklicrYWWFX5Q/viewform?usp=header"
           width="100%"

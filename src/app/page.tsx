@@ -104,7 +104,7 @@ export default function Home() {
         ゆるいキャラたちが、今日の気分をそっとゆる〜く占ってくれるよ。<br />
       </p>
 
-      <footer className="mt-10 text-center text-xs text-gray-400 space-x-4">
+      <footer className="mt-10 text-center text-xs text-gray-400 flex flex-col items-center space-y-2 md:flex-row md:space-x-4 md:space-y-0">
         <a href="/privacy" className="underline hover:text-blue-500">プライバシーポリシー</a>
         <a href="/about" className="underline hover:text-blue-500">このサイトについて</a>
         <a href="/contact" className="underline hover:text-blue-500">お問い合わせ</a>
