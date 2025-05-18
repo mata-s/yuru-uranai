@@ -103,6 +103,13 @@ export default function Home() {
       <p className="text-center text-sm text-gray-500 max-w-md">
         ゆるいキャラたちが、今日の気分をそっとゆる〜く占ってくれるよ。<br />
       </p>
+
+      <footer className="mt-10 text-center text-xs text-gray-400 space-x-4">
+        <a href="/privacy" className="underline hover:text-blue-500">プライバシーポリシー</a>
+        <a href="/about" className="underline hover:text-blue-500">このサイトについて</a>
+        <a href="/contact" className="underline hover:text-blue-500">お問い合わせ</a>
+      </footer>
+      
     </main>
   );
 }
