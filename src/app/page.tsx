@@ -48,7 +48,15 @@ export default function Home() {
   };
 
   return (
-    <main className="flex flex-col items-center justify-center min-h-screen p-8">
+    <>
+      <header className="w-full px-6 py-4 bg-white shadow-sm flex justify-between items-center">
+        <h1 className="text-xl font-bold text-gray-700">ゆる占い</h1>
+        <nav className="flex gap-4 text-sm text-blue-600">
+          <a href="/blog/story" className="hover:underline">ゆるコラム</a>
+          <a href="/about" className="hover:underline">サイトについて</a>
+        </nav>
+      </header>
+      <main className="flex flex-col items-center justify-center min-h-screen p-8">
       <Image
         src="/images/今日のゆる占い.png"
         alt="今日のゆる占いタイトル画像"
@@ -107,18 +115,25 @@ export default function Home() {
         </button>
       )}
       
-      <p className="text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
-      ゆるいキャラたちが、今日の気分をそっとゆる〜く占ってくれるよ。<br />
-  「総合・恋愛・仕事」から気になるテーマを選んで、1日1回だけ運だめし♪<br />
-  結果はちょっとクスッとしたり、ほっとしたり、なんか元気出るかも？
-</p>
+      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
+        ゆるいキャラたちが、今日の気分をそっとゆる〜く占ってくれるよ。
+      </p>
+      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
+       「総合・恋愛・仕事」から気になるテーマを選んで、1日1回だけ運だめし♪
+      </p>
+      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
+        結果はちょっとクスッとしたり、ほっとしたり、なんか元気出るかも？
+      </p>
 
       <footer className="mt-10 text-center text-xs text-gray-400 flex flex-col items-center gap-2 sm:gap-1 md:flex-row md:justify-center md:gap-4">
-        <a href="/privacy" className="underline hover:text-blue-500">プライバシーポリシー</a>
         <a href="/about" className="underline hover:text-blue-500">このサイトについて</a>
+        <a href="/howto" className="underline hover:text-blue-500">使い方ガイド</a>
         <a href="/contact" className="underline hover:text-blue-500">お問い合わせ</a>
+        <a href="/terms" className="underline hover:text-blue-500">利用規約</a>
+        <a href="/privacy" className="underline hover:text-blue-500">プライバシーポリシー</a>
       </footer>
       
     </main>
+    </>
   );
 }

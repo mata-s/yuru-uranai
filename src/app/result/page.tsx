@@ -91,6 +91,12 @@ export default function ResultPage() {
       >
         戻る ↩
       </button>
+      <a
+        href="/characters"
+        className="mt-4 text-sm text-blue-500 underline hover:text-blue-700"
+      >
+        キャラクター紹介はこちら
+      </a>
     </main>
   );
 }

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ganbaru_bear",
+    "name": "やるクマ先輩",
+    "personality": "熱血で前向きな努力家",
+    "speechStyle": "〜ガオ〜！",
+    "intro": "どんな日でも前向きに突き進む、エネルギッシュなくま。",
+    "themes": ["やる気", "挑戦", "チームワーク"],
+    "luckyItems": ["ネイビーのネクタイ", "エナジードリンク", "お気に入りのマグカップ"]
+  },
+  {
+    "id": "yukkuri_kame",
+    "name": "のろのろ仙人",
+    "personality": "穏やかでマイペースな思慮派",
+    "speechStyle": "〜じゃのう",
+    "intro": "焦らずじっくり、確実に前へ進むかめ。",
+    "themes": ["集中力", "ルーティン", "内省"],
+    "luckyItems": ["お気に入りの手帳", "ノイズキャンセリングイヤホン", "付箋メモ"]
+  },
+  {
+    "id": "fight_chick",
+    "name": "ちびガッツ丸",
+    "personality": "元気いっぱいで前向きなムードメーカー",
+    "speechStyle": "〜ピヨ！",
+    "intro": "小さな体に大きなパワー！がんばり屋のひよこ。",
+    "themes": ["行動力", "工夫", "元気"],
+    "luckyItems": ["黄色のメモ帳", "小さい付箋", "スニーカー"]
+  },
+  {
+    "id": "cool_penguin",
+    "name": "センパイペンギン",
+    "personality": "静かでスマートな思考派",
+    "speechStyle": "〜ペン！",
+    "intro": "冷静沈着で頭のキレるペンギン。",
+    "themes": ["集中力", "段取り", "自己管理"],
+    "luckyItems": ["シャープなボールペン"]
+  },
+  {
+    "id": "matatabi_nemuzo",
+    "name": "ぬくぬく王子",
+    "personality": "のんびり屋で癒し系の猫",
+    "speechStyle": "〜ニャ〜",
+    "intro": "自分のペースを大切にするリラックスキャラ。",
+    "themes": ["休息", "無理しない", "マインドフルネス"],
+    "luckyItems": ["あったかい緑茶"]
+  },
+  {
+    "id": "cool_black_cat",
+    "name": "ひやニャ提督",
+    "personality": "感情をコントロールする冷静派",
+    "speechStyle": "〜ニャ",
+    "intro": "静かながら内に情熱を秘めたくろねこ。",
+    "themes": ["感情コントロール", "クールダウン"],
+    "luckyItems": ["お気に入りの香りのハンドクリーム"]
+  },
+  {
+    "id": "kuroshiro-neko",
+    "name": "ちょこまる団長",
+    "personality": "好奇心旺盛でちょっとお調子者",
+    "speechStyle": "〜にゃん",
+    "intro": "白と黒の毛並みがチャームポイント。明るく元気な性格の猫。",
+    "themes": ["探究心", "ひらめき"],
+    "luckyItems": ["チェック柄のスカーフ"]
+  },
+  {
+    "id": "genki_playful_cat",
+    "name": "はしゃぐるにゃん",
+    "personality": "遊びが大好きな無邪気な性格",
+    "speechStyle": "〜にゃ〜ん",
+    "intro": "動くの大好き！元気いっぱいな遊び好きキャット。",
+    "themes": ["遊び心", "ポジティブ思考"],
+    "luckyItems": ["カラフルなおもちゃ"]
+  },
+  {
+    "id": "lazy_relax_cat",
+    "name": "ごろキング",
+    "personality": "お昼寝とリラックスが得意なマイペースさん",
+    "speechStyle": "〜ニャ〜",
+    "intro": "ゴロゴロと過ごすのが至福。癒し系の脱力キャラ。",
+    "themes": ["リラックス", "省エネ行動"],
+    "luckyItems": ["ふわふわクッション"]
+  },
+  {
+    "id": "maintenance_cat",
+    "name": "ケアにゃママ",
+    "personality": "気配り上手な世話焼き",
+    "speechStyle": "〜にゃす",
+    "intro": "いつもみんなの健康と環境を気にかける頼れる存在。",
+    "themes": ["体調管理", "予防"],
+    "luckyItems": ["マッサージボール"]
+  },
+  {
+    "id": "fluffy_shimaenaga",
+    "name": "もふもふ神",
+    "personality": "小さくてかわいい癒しの妖精",
+    "speechStyle": "",
+    "intro": "ほわっとした雰囲気でみんなを和ませてくれる。",
+    "themes": ["癒し", "空気感"],
+    "luckyItems": ["ふわふわのストール"]
+  },
+  {
+    "id": "love_heart_cat",
+    "name": "ラブ番長",
+    "personality": "恋愛相談が得意なロマンチスト",
+    "speechStyle": "ニャ〜",
+    "intro": "愛を語らせたら右に出るものなし。ハート全開の猫。",
+    "themes": ["恋愛", "ときめき"],
+    "luckyItems": ["ハート型の小物"]
+  },
+  {
+    "id": "romantic_rabbit",
+    "name": "ふわぽよ姫",
+    "personality": "夢見がちな感性派",
+    "speechStyle": "〜ぴょん",
+    "intro": "空想の世界が大好きなふんわりウサギ。",
+    "themes": ["夢", "感受性"],
+    "luckyItems": ["おしゃれなノート"]
+  },
+  {
+    "id": "kawaii_chick",
+    "name": "ぷにたまピヨ助",
+    "personality": "ほんわかしていてちょっと甘えん坊",
+    "speechStyle": "ピヨ〜／ピヨ♪",
+    "intro": "みんなに愛される癒し系の末っ子キャラ。",
+    "themes": ["癒し", "素直さ"],
+    "luckyItems": ["ふわふわタオル"]
+  },
+  {
+    "id": "kitune",
+    "name": "こんコン賢者",
+    "personality": "大人っぽくて落ち着いた癒し系",
+    "speechStyle": "〜コン",
+    "intro": "もの静かで奥ゆかしい。たまに鋭いひと言も。",
+    "themes": ["知恵", "癒し", "和み"],
+    "luckyItems": ["お香"]
+  }
+]
