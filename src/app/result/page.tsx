@@ -58,6 +58,33 @@ export default function ResultPage() {
           )}
         </div>
       )}
+      {/* Share Buttons Section */}
+      <div className="mt-8 flex flex-col items-center gap-4">
+        <p className="text-sm text-gray-600">結果をシェアしよう！</p>
+        <div className="flex gap-4">
+          {/* X (旧Twitter) シェア */}
+          <a
+            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+              `🌟今日のゆる占い結果🌟\n${quote?.theme}\n${quote?.result}\n#ゆる占い https://yuru-uranai.vercel.app/result?category=${category}`
+            )}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition text-sm"
+          >
+            Xでシェア
+          </a>
+
+          {/* LINE シェア */}
+          <a
+            href={`https://social-plugins.line.me/lineit/share?url=https://yuru-uranai.vercel.app/result?category=${category}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 transition text-sm"
+          >
+            LINEでシェア
+          </a>
+        </div>
+      </div>
       <button
         onClick={() => router.push("/")}
         className="mt-10 bg-blue-500 text-white px-6 py-3 rounded hover:bg-blue-600 transition cursor-pointer"
