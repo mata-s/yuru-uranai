@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: "ゆる占い",
     images: [
       {
-        url: "/ogp.png",
+        url: "https://yuru-uranai.vercel.app/ogp.png",
         width: 1200,
         height: 630,
         alt: "ゆる占いのキャラクターたち",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "ゆる占い",
     description: "ゆる〜く占ってくれる癒しのWeb占い！",
-    images: ["/ogp.png"],
+    images: ["https://yuru-uranai.vercel.app/ogp.png"],
   },
   icons: {
     icon: "/favicon.ico",
