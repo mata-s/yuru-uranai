@@ -66,4 +66,8 @@ export const characters: Character[] = [
     id: "kitune",
     image: "/images/kitune.png",
   },
+  {
+    id: "tecchi_penguin",
+    image: "/images/tecchi_penguin.png",
+  },
 ];

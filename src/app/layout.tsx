@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ゆる占い｜かわいいキャラが今日の気分をゆる〜く占うよ",
-  description: "ゆるキャラが毎日あなたの気分を占って癒してくれるWebアプリ。恋愛・仕事・総合の3カテゴリで楽しめます。",
+  title: "ゆる占い｜かわいいキャラが今日のあなたををゆる〜く占うよ",
+  description: "毎日ちょっとだけ癒されたいあなたへ。かわいくて個性豊かなキャラたちが、あなたの今日をゆる〜く占ってくれる癒しの占いサイト。恋愛・仕事・総合運もチェックできるよ。",
   keywords: ["占い", "今日の運勢", "ゆるキャラ", "恋愛運", "仕事運", "かわいい", "癒し"],
   openGraph: {
     title: "ゆる占い",
-    description: "かわいいキャラが今日の気分をゆる〜く占ってくれる！",
+    description: "かわいいキャラが今日のあなたをゆる〜く占ってくれる！",
     url: "https://yuru-uranai.vercel.app/",
     siteName: "ゆる占い",
     images: [
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "ゆる占い",
-    description: "ゆる〜く占ってくれる癒しのWeb占い！",
+    description: "かわいいキャラが今日のあなたをゆる〜く占ってくれる！",
     images: ["https://yuru-uranai.vercel.app/ogp.png"],
   },
   icons: {

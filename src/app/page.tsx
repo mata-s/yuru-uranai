@@ -94,8 +94,8 @@ export default function Home() {
         </div>
         <p className="text-sm text-gray-600 text-center">
           {category === "general" && "全体運をふんわり占うよ。今日のゆるっとした流れをチェックしてね。"}
-          {category === "love" && "恋愛にまつわる気分や出会い運を占うよ。ドキドキのヒントがあるかも！"}
-          {category === "work" && "お仕事まわりの気分ややる気、いい流れをそっと教えてくれるかも！"}
+          {category === "love" && "恋の流れや出会いのチャンスを、ゆる〜く占うよ。ドキドキのヒントが見つかるかも！"}
+          {category === "work" && "お仕事まわりの流れややる気スイッチを、こっそり占っちゃうよ。"}
         </p>
       </div>
 
@@ -116,10 +116,10 @@ export default function Home() {
       )}
       
       <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
-        ゆるいキャラたちが、今日の気分をそっとゆる〜く占ってくれるよ。
+        ゆるいキャラたちが今日のあなたにぴったりなメッセージをそっとゆる〜く届けてくれるよ。
       </p>
       <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
-       「総合・恋愛・仕事」から気になるテーマを選んで、1日1回だけ運だめし♪
+       「総合・恋愛・仕事」の3つのテーマを、1日1回ずつゆる〜く占えるよ♪
       </p>
       <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
         結果はちょっとクスッとしたり、ほっとしたり、なんか元気出るかも？

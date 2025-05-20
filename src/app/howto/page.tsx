@@ -15,7 +15,7 @@ export default function HowToPage() {
       <section className="mb-6">
         <h2 className="text-xl font-semibold mb-2">2. 占うボタンをタップ</h2>
         <p>
-          選んだカテゴリのページで「占う」ボタンを押すと、今日のあなたの気分にぴったりな占い結果が表示されます。
+          選んだカテゴリのページで「占う」ボタンを押すと、今日のあなたのにぴったりな占い結果が表示されます。
         </p>
       </section>
 
