@@ -64,12 +64,21 @@ export default function Home() {
         height={100}
         className="mb-6 animate-fade-in"
       />
-
       {!canFortune && (
         <p className="text-center text-gray-500 mb-10">
           「今日はもう占ったニャ〜。また明日きてニャ！」
         </p>
       )}
+      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
+        ゆるいキャラたちが今日のあなたにぴったりなメッセージをそっとゆる〜く届けてくれるよ。
+      </p>
+      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
+       「総合・恋愛・仕事」の3つのテーマを、1日1回ずつゆる〜く占えるよ♪
+      </p>
+      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
+        結果はちょっとクスッとしたり、ほっとしたり、なんか元気出るかも？
+      </p>
+
 
       <div className="flex flex-col items-center mb-6">
         <div className="flex gap-4 mb-2">
@@ -98,14 +107,15 @@ export default function Home() {
           {category === "work" && "お仕事まわりの流れややる気スイッチを、こっそり占っちゃうよ。"}
         </p>
       </div>
-
       {canFortune ? (
-        <button
-          onClick={handleFortune}
-          className="bg-blue-500 text-white text-5xl px-10 py-5 md:text-5xl md:px-14 md:py-6 rounded-full hover:bg-blue-600 transition mb-10 cursor-pointer"
-        >
-          占う
-        </button>
+        <>
+          <button
+            onClick={handleFortune}
+            className="bg-blue-500 text-white text-5xl px-10 py-5 md:text-5xl md:px-14 md:py-6 rounded-full hover:bg-blue-600 transition mb-10 cursor-pointer"
+          >
+            占う
+          </button>
+        </>
       ) : (
         <button
           onClick={handleViewResult}
@@ -114,16 +124,49 @@ export default function Home() {
           結果を見る
         </button>
       )}
-      
-      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
-        ゆるいキャラたちが今日のあなたにぴったりなメッセージをそっとゆる〜く届けてくれるよ。
+
+      <p className="text-center text-sm text-gray-700 mt-8 mb-2">
+        本格的な占いや、相談したい悩みがあるならこちらもチェックしてみてね。↓↓
       </p>
-      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
-       「総合・恋愛・仕事」の3つのテーマを、1日1回ずつゆる〜く占えるよ♪
-      </p>
-      <p className="text-left md:text-center text-gray-700 text-base max-w-2xl mb-8 leading-relaxed">
-        結果はちょっとクスッとしたり、ほっとしたり、なんか元気出るかも？
-      </p>
+      <div className="flex flex-col md:flex-row justify-center items-center gap-4 my-10">
+        {/* 広告1 */}
+        <div className="w-[300px]">
+          <a href="https://px.a8.net/svt/ejp?a8mat=455KRM+D15LGY+2PEO+1BRTKX" rel="nofollow" target="_blank">
+            <img
+              src="https://www29.a8.net/svt/bgt?aid=250522978788&wid=001&eno=01&mid=s00000012624008024000&mc=1"
+              alt="広告バナー1"
+              width={300}
+              height={250}
+            />
+          </a>
+          <img
+            src="https://www13.a8.net/0.gif?a8mat=455KRM+D15LGY+2PEO+1BRTKX"
+            alt=""
+            width={1}
+            height={1}
+            style={{ display: "none" }}
+          />
+        </div>
+
+        {/* 広告2 */}
+        <div className="w-[300px]">
+          <a href="https://px.a8.net/svt/ejp?a8mat=455KRM+8ZAE9E+2PEO+C510X" rel="nofollow" target="_blank">
+            <img
+              src="https://www20.a8.net/svt/bgt?aid=250522978543&wid=001&eno=01&mid=s00000012624002039000&mc=1"
+              alt="広告バナー2"
+              width={300}
+              height={250}
+            />
+          </a>
+          <img
+            src="https://www14.a8.net/0.gif?a8mat=455KRM+8ZAE9E+2PEO+C510X"
+            alt=""
+            width={1}
+            height={1}
+            style={{ display: "none" }}
+          />
+        </div>
+      </div>
 
       <footer className="mt-10 text-center text-xs text-gray-400 flex flex-col items-center gap-2 sm:gap-1 md:flex-row md:justify-center md:gap-4">
         <a href="/about" className="underline hover:text-blue-500">このサイトについて</a>

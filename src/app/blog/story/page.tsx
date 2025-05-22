@@ -23,6 +23,32 @@ export default function StoryPage() {
         「こんなキャラどう？」というアイデアやイラストをご提供いただける方は、
         ぜひ <a href="/contact" className="text-blue-500 underline hover:text-blue-700">お問い合わせ</a> よりご連絡ください。ゆるっと歓迎です！
       </p>
+      <div className="mt-10 max-w-md mx-auto rounded-xl border border-gray-200 shadow-md p-4 bg-white hover:shadow-lg transition">
+  <p className="text-center text-sm text-gray-600 mb-3">
+    キャラと一緒に癒しの雑貨もいかが？
+  </p>
+  <a
+    href="https://px.a8.net/svt/ejp?a8mat=455KRM+B72HBM+5LYU+5YZ75"
+    rel="nofollow"
+    target="_blank"
+    className="block"
+  >
+    <img
+      src="https://www27.a8.net/svt/bgt?aid=250522978677&wid=001&eno=01&mid=s00000026175001003000&mc=1"
+      alt="癒し系雑貨バナー"
+      width={300}
+      height={250}
+      className="mx-auto"
+    />
+  </a>
+  <img
+    src="https://www16.a8.net/0.gif?a8mat=455KRM+B72HBM+5LYU+5YZ75"
+    alt=""
+    width={1}
+    height={1}
+    style={{ display: "none" }}
+  />
+</div>
     </main>
   );
 }
