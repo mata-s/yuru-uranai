@@ -117,12 +117,66 @@ export default function Home() {
           </button>
         </>
       ) : (
-        <button
-          onClick={handleViewResult}
-          className="bg-gray-500 text-white text-2xl px-8 py-4 md:text-3xl md:px-10 md:py-5 rounded-full hover:bg-gray-600 transition mb-10 cursor-pointer"
-        >
-          結果を見る
-        </button>
+        <>
+          {/* ランダムで広告を切り替え */}
+          {!canFortune && (
+            <>
+              {Math.random() < 0.5 ? (
+                <>
+                  <a
+                    href="https://px.a8.net/svt/ejp?a8mat=455Q7P+4P34KY+4CZE+5ZMCH"
+                    rel="nofollow"
+                    target="_blank"
+                  >
+                    <img
+                      src="https://www21.a8.net/svt/bgt?aid=250530037284&wid=001&eno=01&mid=s00000020345001006000&mc=1"
+                      alt="広告バナー1"
+                      width={300}
+                      height={250}
+                      className="mx-auto mb-4"
+                    />
+                  </a>
+                  <img
+                    src="https://www14.a8.net/0.gif?a8mat=455Q7P+4P34KY+4CZE+5ZMCH"
+                    alt=""
+                    width={1}
+                    height={1}
+                    style={{ display: "none" }}
+                  />
+                </>
+              ) : (
+                <>
+                  <a
+                    href="https://px.a8.net/svt/ejp?a8mat=455Q7P+57JKC2+4EPM+63OY9"
+                    rel="nofollow"
+                    target="_blank"
+                  >
+                    <img
+                      src="https://www24.a8.net/svt/bgt?aid=250530037315&wid=001&eno=01&mid=s00000020569001025000&mc=1"
+                      alt="広告バナー2"
+                      width={300}
+                      height={250}
+                      className="mx-auto mb-4"
+                    />
+                  </a>
+                  <img
+                    src="https://www15.a8.net/0.gif?a8mat=455Q7P+57JKC2+4EPM+63OY9"
+                    alt=""
+                    width={1}
+                    height={1}
+                    style={{ display: "none" }}
+                  />
+                </>
+              )}
+            </>
+          )}
+          <button
+            onClick={handleViewResult}
+            className="bg-gray-500 text-white text-2xl px-8 py-4 md:text-3xl md:px-10 md:py-5 rounded-full hover:bg-gray-600 transition mb-10 cursor-pointer"
+          >
+            結果を見る
+          </button>
+        </>
       )}
 
       <p className="text-center text-sm text-gray-700 mt-8 mb-2">
