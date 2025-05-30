@@ -70,4 +70,8 @@ export const characters: Character[] = [
     id: "tecchi_penguin",
     image: "/images/tecchi_penguin.png",
   },
+    {
+    id: "hamuhamu_boss",
+    image: "/images/hamuhamu_boss.png",
+  },
 ];

@@ -112,4 +112,40 @@
   "comment": "てちてち一歩だけ、いつもと違う道を選んでみるペン♪",
   "luckyItem": "ひとくちサイズのチョコ"
 }
+,
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "ちいさな体でも存在感バツグンでち！",
+    "result": "思いきった発言が周囲を驚かせるかもでち！",
+    "comment": "堂々とした態度が信頼につながるでち！",
+    "luckyItem": "ちょっと大きめのマグカップ"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "ちょこまか動いて、効率アップでち！",
+    "result": "テンポよく進めば、午後には余裕が生まれるでち！",
+    "comment": "手の届く範囲に必要なものを集めるといいでちよ",
+    "luckyItem": "小さな収納ボックス"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "小さな違和感に気づける日でち！",
+    "result": "細かい調整が大きな成果につながるでち！",
+    "comment": "いつもと違う部分を意識してみるといいでちよ",
+    "luckyItem": "チェック柄のノート"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "自分にしかできない仕事を大切にするでち！",
+    "result": "誰かを助けることで評価される日でち！",
+    "comment": "目立たなくても、ちゃんと見てくれてる人はいるでち！",
+    "luckyItem": "お気に入りのペン"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "ちいさな誇りが原動力になる日でち！",
+    "result": "「やった！」の気持ちを大切にするでち！",
+    "comment": "どんな小さな成功もちゃんと褒めてあげるでちよ",
+    "luckyItem": "ごほうびおやつ"
+  }
 ]

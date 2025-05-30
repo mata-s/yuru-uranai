@@ -131,5 +131,40 @@
     "result": "今日は無理に動かなくても、自然といい空気が流れるペン〜",
     "comment": "笑顔でいるだけで、てちてち恋の風が近づいてくるペン！",
     "luckyItem": "小さな鏡"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "恋に真剣勝負な気分でち",
+    "result": "ストレートな想いがいちばん響く日でち！",
+    "comment": "回り道してもいいけど、今日は近道のほうがいいでちよ！",
+    "luckyItem": "赤いペン"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "恋に対してちょっと強気な気分でち",
+    "result": "今日は押して押して押しちゃってOKでち！",
+    "comment": "勢いで言った一言が、案外いい流れをつくるでち〜",
+    "luckyItem": "勝負マスク"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "恋にドキドキ挑戦モードでち",
+    "result": "気になる人に近づくチャンス、今日は逃さないでち！",
+    "comment": "小さい勇気が恋のドアをノックするでちよ！",
+    "luckyItem": "ちっちゃなメモ帳"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "恋に夢見る気分でち",
+    "result": "あれこれ妄想する日も、大事な恋の準備期間でち！",
+    "comment": "頭の中でシミュレーションしておくと、本番に強くなるでち〜",
+    "luckyItem": "ふわふわの雲シール"
+  },
+  {
+    "characterId": "hamuhamu_boss",
+    "theme": "恋をからかいたい気分でち",
+    "result": "ちょっと冗談っぽく伝えると、いい感じに距離が縮まるでちよ！",
+    "comment": "軽くつっこんだり笑わせたり、今日はユーモア勝負でち！",
+    "luckyItem": "小さなおもちゃマイク"
   }
 ]
